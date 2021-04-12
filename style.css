@@ -196,6 +196,75 @@ body {
     transform: scale(1.1);
   }
 
+  #more {
+    display: none;
+  }
+
+  #more2 {
+    display: none;
+  }
+
+  #more3 {
+    display: none;
+  }
+
+  #myBtn {
+    display: inline-block;
+    background-color: #f8f8ff;
+    color: #18191A;
+    padding: .5em 2.5em;
+    border-radius: .40em;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    transition: transform 200ms ease-in-out;
+  }
+
+  #myBtn2 {
+    display: inline-block;
+    background-color: #f8f8ff;
+    color: #18191A;
+    padding: .5em 2.5em;
+    border-radius: .40em;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    transition: transform 200ms ease-in-out;
+  }
+
+  #myBtn3 {
+    display: inline-block;
+    background-color: #f8f8ff;
+    color: #18191A;
+    padding: .5em 2.5em;
+    border-radius: .40em;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    transition: transform 200ms ease-in-out;
+  }
+  
+  #myBtn:hover {
+    transform: scale(1.1);
+  }
+
+  #myBtn2:hover {
+    transform: scale(1.1);
+  }
+
+  #myBtn3:hover {
+    transform: scale(1.1);
+  }
+
   #about {
     font-family: nunito;
     /* font-size: 20px; */
